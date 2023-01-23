@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weathercheck.com/static/css/main.b6bf7408.css",
+    "main.js": "/Weathercheck.com/static/js/main.6e8ab2f2.js",
+    "static/js/787.c5a43a3d.chunk.js": "/Weathercheck.com/static/js/787.c5a43a3d.chunk.js",
+    "static/media/navbar.jpg": "/Weathercheck.com/static/media/navbar.722b530db381a07abbe9.jpg",
+    "index.html": "/Weathercheck.com/index.html",
+    "main.b6bf7408.css.map": "/Weathercheck.com/static/css/main.b6bf7408.css.map",
+    "main.6e8ab2f2.js.map": "/Weathercheck.com/static/js/main.6e8ab2f2.js.map",
+    "787.c5a43a3d.chunk.js.map": "/Weathercheck.com/static/js/787.c5a43a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6bf7408.css",
+    "static/js/main.6e8ab2f2.js"
+  ]
+}

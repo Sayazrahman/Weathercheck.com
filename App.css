@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
+body{
+  /* background: linear-gradient(90deg, rgb(255, 98, 41) 0%, rgb(12, 150, 213) 35%, rgb(255, 197, 103) 100%); */
+   /* background-image: url(13290.jpg); */
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+.navbar{
+  background-image: url(navbar.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+
+
+body {
+     background-color: rgb(25, 0, 83); 
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover,
+a:focus {
+    text-decoration:none;
+}
+
+.box-header {
+    background: #dedede;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 60px 0px;
+}
+
+.box-header .fa {
+    color: #FFF;
+}
+
+.box-header-instagram {
+    background: linear-gradient(45deg, #f2935b, #6f49c0);
+}
+
+.box-header-twitter {
+    background: linear-gradient(45deg, #cae1f3, #55aded);
+}
+
+.box-header-facebook {
+    background: linear-gradient(45deg, #95a2c1, #3b579d);
+}
+
+.box-bottom {
+    background: #FFF;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 30px 0px;
+}
+
+.box-text {
+    padding: 10px 0px; 
+}
+
+instagram-title {
+    background: linear-gradient(45deg, #f2935b, #6f49c0);
+    font-size: 20px;  
+    font-weight: 600;
+   
+    -webkit-text-fill-color: transparent;
+}
+
+.twitter-title {
+    background: linear-gradient(45deg, #cae1f3, #55aded);
+    font-size: 20px;  
+    font-weight: 600;
+   
+    -webkit-text-fill-color: transparent;
+}
+
+.facebook-title {
+    color: #428bca;
+    font-size: 20px; 
+    font-weight: 600;
+}
+.center{
+    margin: auto;
+}
